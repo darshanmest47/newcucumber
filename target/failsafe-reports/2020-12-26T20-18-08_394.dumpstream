@@ -1,0 +1,4 @@
+# Created at 2020-12-26T20:18:11.183
+Boot Manifest-JAR contains absolute paths in classpath 'E:\ec5\newcucu\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

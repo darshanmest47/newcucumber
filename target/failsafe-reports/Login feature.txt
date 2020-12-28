@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Login feature
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 110.937 s <<< FAILURE! - in Login feature
+To Verify the Login Functionality with proper credentials(Login feature)  Time elapsed: 46.659 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[My account] - My Store> but was:<[Login] - My Store>
+
